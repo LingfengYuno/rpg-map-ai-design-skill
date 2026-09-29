@@ -1,5 +1,5 @@
 ---
-name: rpg-map-ai-design
+name: rpg-map-ai-design-skill
 description: 规划并用 AI 辅助制作 2D RPG 地图场景；适用于需要可编辑几何底座、参考图约束、底图生成或 Godot 可玩化的室内外地图。仅需概念图或角色立绘时不要调用。
 ---
 

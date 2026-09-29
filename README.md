@@ -45,13 +45,13 @@ rpg-map-ai-design-skill/
 把整个仓库目录复制到 Codex 的 skills 目录，并保持 `SKILL.md`、`assets/`、`references/` 的相对位置。例如：
 
 ```text
-~/.codex/skills/rpg-map-ai-design/
+~/.codex/skills/rpg-map-ai-design-skill/
 ```
 
 安装后可在请求中写：
 
 ```text
-使用 $rpg-map-ai-design，为一张 2D RPG 街道地图规划生图底座。
+使用 $rpg-map-ai-design-skill，为一张 2D RPG 街道地图规划生图底座。
 画布 1080×1920，先确定道路、可走区和两个出口，再参考我提供的图生成底图候选。
 ```
 
